@@ -37,7 +37,7 @@ The proposed experience prioritizes mobile users, document readiness and clear v
 
 ## Design Preview
 
-Add screenshots of the homepage and onboarding screens to the `screenshots` folder and link them here.
+Add screenshots of the homepage and onboarding screens in the repository.
 
 ## Links
 
